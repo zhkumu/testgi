@@ -7,3 +7,4 @@ create a new branch is quich
 create a new branch was simple
 create a new branch fast forward
 create a new branch no fast
+create a new branch bug
